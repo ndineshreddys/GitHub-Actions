@@ -1,5 +1,4 @@
 # app.py
-# Do test
 def add(a, b):
     return a + b
 
